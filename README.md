@@ -19,7 +19,7 @@ All Python projects
 15. Guess the Number
 16. Countdown Timer
 17. Calculator
-18. Reltaed Word Game
+18. Related Word Game
 19. Memory Sequence Game
 20. Rock Paper Scissors
 21. Task Manager
